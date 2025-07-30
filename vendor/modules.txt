@@ -1,0 +1,124 @@
+# github.com/alibabacloud-go/alibabacloud-gateway-sls v0.3.0
+## explicit; go 1.14
+github.com/alibabacloud-go/alibabacloud-gateway-sls/client
+github.com/alibabacloud-go/alibabacloud-gateway-sls/http
+# github.com/alibabacloud-go/alibabacloud-gateway-sls-util v0.3.0
+## explicit; go 1.19
+github.com/alibabacloud-go/alibabacloud-gateway-sls-util/client
+# github.com/alibabacloud-go/alibabacloud-gateway-spi v0.0.5
+## explicit; go 1.14
+github.com/alibabacloud-go/alibabacloud-gateway-spi/client
+# github.com/alibabacloud-go/darabonba-array v0.1.0
+## explicit; go 1.14
+github.com/alibabacloud-go/darabonba-array/client
+# github.com/alibabacloud-go/darabonba-encode-util v0.0.2
+## explicit; go 1.14
+github.com/alibabacloud-go/darabonba-encode-util/client
+# github.com/alibabacloud-go/darabonba-map v0.0.2
+## explicit; go 1.14
+github.com/alibabacloud-go/darabonba-map/client
+# github.com/alibabacloud-go/darabonba-openapi/v2 v2.1.9
+## explicit; go 1.14
+github.com/alibabacloud-go/darabonba-openapi/v2/client
+github.com/alibabacloud-go/darabonba-openapi/v2/models
+github.com/alibabacloud-go/darabonba-openapi/v2/utils
+# github.com/alibabacloud-go/darabonba-signature-util v0.0.7
+## explicit; go 1.14
+github.com/alibabacloud-go/darabonba-signature-util/client
+# github.com/alibabacloud-go/darabonba-string v1.0.2
+## explicit; go 1.14
+github.com/alibabacloud-go/darabonba-string/client
+# github.com/alibabacloud-go/debug v1.0.1
+## explicit; go 1.18
+github.com/alibabacloud-go/debug/debug
+# github.com/alibabacloud-go/openapi-util v0.1.1
+## explicit; go 1.14
+github.com/alibabacloud-go/openapi-util/service
+# github.com/alibabacloud-go/sls-20201230/v6 v6.9.2
+## explicit; go 1.14
+github.com/alibabacloud-go/sls-20201230/v6/client
+# github.com/alibabacloud-go/tea v1.3.10
+## explicit; go 1.14
+github.com/alibabacloud-go/tea/dara
+github.com/alibabacloud-go/tea/tea
+github.com/alibabacloud-go/tea/utils
+# github.com/alibabacloud-go/tea-utils/v2 v2.0.7
+## explicit; go 1.14
+github.com/alibabacloud-go/tea-utils/v2/service
+# github.com/aliyun/credentials-go v1.4.6
+## explicit; go 1.14
+github.com/aliyun/credentials-go/credentials
+github.com/aliyun/credentials-go/credentials/internal/http
+github.com/aliyun/credentials-go/credentials/internal/utils
+github.com/aliyun/credentials-go/credentials/providers
+github.com/aliyun/credentials-go/credentials/request
+github.com/aliyun/credentials-go/credentials/response
+github.com/aliyun/credentials-go/credentials/utils
+# github.com/bahlo/generic-list-go v0.2.0
+## explicit; go 1.18
+github.com/bahlo/generic-list-go
+# github.com/buger/jsonparser v1.1.1
+## explicit; go 1.13
+github.com/buger/jsonparser
+# github.com/clbanning/mxj/v2 v2.7.0
+## explicit; go 1.15
+github.com/clbanning/mxj/v2
+# github.com/google/uuid v1.6.0
+## explicit
+github.com/google/uuid
+# github.com/invopop/jsonschema v0.13.0
+## explicit; go 1.18
+github.com/invopop/jsonschema
+# github.com/json-iterator/go v1.1.12
+## explicit; go 1.12
+github.com/json-iterator/go
+# github.com/klauspost/compress v1.17.8
+## explicit; go 1.20
+github.com/klauspost/compress
+github.com/klauspost/compress/fse
+github.com/klauspost/compress/huff0
+github.com/klauspost/compress/internal/cpuinfo
+github.com/klauspost/compress/internal/snapref
+github.com/klauspost/compress/zstd
+github.com/klauspost/compress/zstd/internal/xxhash
+# github.com/mailru/easyjson v0.7.7
+## explicit; go 1.12
+github.com/mailru/easyjson/buffer
+github.com/mailru/easyjson/jwriter
+# github.com/mark3labs/mcp-go v0.36.0
+## explicit; go 1.23
+github.com/mark3labs/mcp-go/mcp
+github.com/mark3labs/mcp-go/server
+github.com/mark3labs/mcp-go/util
+# github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd
+## explicit
+github.com/modern-go/concurrent
+# github.com/modern-go/reflect2 v1.0.2
+## explicit; go 1.12
+github.com/modern-go/reflect2
+# github.com/pierrec/lz4 v2.6.1+incompatible
+## explicit
+github.com/pierrec/lz4
+github.com/pierrec/lz4/internal/xxh32
+# github.com/spf13/cast v1.7.1
+## explicit; go 1.19
+github.com/spf13/cast
+# github.com/tjfoc/gmsm v1.4.1
+## explicit; go 1.14
+github.com/tjfoc/gmsm/sm3
+# github.com/wk8/go-ordered-map/v2 v2.1.8
+## explicit; go 1.18
+github.com/wk8/go-ordered-map/v2
+# github.com/yosida95/uritemplate/v3 v3.0.2
+## explicit; go 1.14
+github.com/yosida95/uritemplate/v3
+# golang.org/x/net v0.26.0
+## explicit; go 1.18
+golang.org/x/net/internal/socks
+golang.org/x/net/proxy
+# gopkg.in/ini.v1 v1.67.0
+## explicit
+gopkg.in/ini.v1
+# gopkg.in/yaml.v3 v3.0.1
+## explicit
+gopkg.in/yaml.v3
